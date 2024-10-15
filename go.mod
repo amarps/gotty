@@ -1,4 +1,4 @@
-module github.com/yudai/gotty
+module github.com/amarps/gotty
 
 go 1.23.2
 
